@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav@example.com",
+    "password": "123",
+    "role": "manager",
+    "managerEmail": "xyz@gmail.com"
+  },
+  {
+    "name": "Priya Verma",
+    "email": "priya@example.com",
+    "password": "123",
+    "role": "manager",
+    "managerEmail": "xyz@gmail.com"
+  },
+  {
+    "name": "Rahul Patel",
+    "email": "rahul@example.com",
+    "password": "123",
+    "role": "manager",
+    "managerEmail": "xyz@gmail.com"
+  }
+]

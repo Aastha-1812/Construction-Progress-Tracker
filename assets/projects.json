@@ -1,0 +1,29 @@
+[
+  {
+    "id": "p1",
+    "projectName": "Residential Tower A",
+    "managerId": "m1",
+    "managerName": "Aarav Sharma",
+    "location": "Mumbai",
+    "status": "Not Started",
+    "role": "manager"
+  },
+  {
+    "id": "p2",
+    "projectName": "Metro Line Phase 2",
+    "managerId": "m2",
+    "managerName": "Priya Verma",
+    "location": "Pune",
+    "status": "In Progress",
+    "role": "manager"
+  },
+  {
+    "id": "p3",
+    "projectName": "Bridge Construction",
+    "managerId": "m3",
+    "managerName": "Rahul Patel",
+    "location": "Delhi",
+    "status": "Complete",
+    "role": "manager"
+  }
+]
